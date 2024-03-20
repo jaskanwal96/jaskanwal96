@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaskanwal96
-- 👀 I’m interested in solving problems, learning the end to end web flow and Frontend Engineering.
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on any frontend related applications.
+- 👀 I’m interested in solving problems, learning the end-to-end web flow and Frontend Engineering.
+- 🌱 I’m currently mastering Vue
+- 💞️ I’m looking to collaborate on any frontend-related applications.
 - 📫 How to reach me: mail me at jaskanwal196@gmail.com
 
 <!---
